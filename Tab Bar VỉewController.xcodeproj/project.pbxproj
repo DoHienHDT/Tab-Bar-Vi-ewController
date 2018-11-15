@@ -55,6 +55,7 @@
 		8072539C2121A0EC00A288C7 /* Tab Bar VỉewControllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tab Bar VỉewControllerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		807253A02121A0EC00A288C7 /* Tab_Bar_Vi_ewControllerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab_Bar_Vi_ewControllerUITests.swift; sourceTree = "<group>"; };
 		807253A22121A0EC00A288C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3087F0A219D7F67004204F4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +86,7 @@
 		807253742121A0EB00A288C7 = {
 			isa = PBXGroup;
 			children = (
+				B3087F0A219D7F67004204F4 /* README.md */,
 				8072537F2121A0EB00A288C7 /* Tab Bar VỉewController */,
 				807253942121A0EC00A288C7 /* Tab Bar VỉewControllerTests */,
 				8072539F2121A0EC00A288C7 /* Tab Bar VỉewControllerUITests */,
